@@ -45,7 +45,7 @@ Follow these steps to install and run the application on your local machine. ðŸŽ
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/chat-wikipedia.git
+   git clone [https://github.com/your-repo/chat-wikipedia.git](https://github.com/datageekrj/Chat-With-Wikipedia.git)
    cd chat-wikipedia
    ```
 
