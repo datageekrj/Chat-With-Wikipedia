@@ -90,14 +90,8 @@ Follow these steps to install and run the application on your local machine. �
 ### 4. **Check Another Page**
    - Want to ask about another Wikipedia page? Click the "Another Wikipedia Page" button to start over!
 
-## 📸 Screenshots
-Here’s a sneak peek of the app in action:
-
-1. **Homepage**
-   ![Homepage](images/homepage.png)
-
-2. **Chat Interface**
-   ![Chat Interface](images/chat.png)
+## 📸 YouTube Demo
+Here’s a sneak peek of the app in action: https://youtu.be/1mxTvmpDV-I
 
 ## 📜 License
 
