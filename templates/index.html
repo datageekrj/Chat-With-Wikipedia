@@ -241,7 +241,8 @@
             inputContainer.style.display = "block";
             const titleInput = document.getElementById('titleInput');
             titleInput.value = "";
-        }
+            document.getElementById("chatMessages").innerHTML = "";
+            history = [];        }
 
         function prepareHistoryArray(){
             const titleInput = document.getElementById('titleInput');
